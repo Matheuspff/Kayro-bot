@@ -1,4 +1,4 @@
-# 🤖 Brizas-bot 🤖
+# 🤖 Morty-bot 🤖
 <h1 align="center">
     <p>
         <img src= "https://i.imgur.com/sm6LGkk.gif">
