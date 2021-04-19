@@ -49,14 +49,14 @@ pm2 start index.js
 
 ```
 ---
-# 🙋‍♂️ Como mudar as configurações do bot
+# 🙋‍♂️ Morty
 ```
-cd
-cd Brizas-bot
-apt install nano
-nano config.js
+Morty
+Morty
+Morty
+Morty
+Morty
 
-(ATENÇÃO MUDE APENAS OS NUMEROS ENTRE OS ACENTOS, NÃO REMOVA O @s.whatsapp.net)
 ```
 # 😘 Créditos
 
